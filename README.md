@@ -45,54 +45,28 @@ The platform combines AI-driven mock interviews, programming assessments, resume
 
 
 ### 1. Student Login
-
-
-
-
+<img width="1406" height="865" alt="image" src="https://github.com/user-attachments/assets/df554997-a167-48e1-aa5d-f3b32606464d" />
 
 ### 2. Student Dashboard
-
-\<!-- Add Student Dashboard screenshot here -->
-
-
+<img width="1653" height="871" alt="image" src="https://github.com/user-attachments/assets/46944ba3-27fc-4963-a55a-bd620e0f5aa1" />
 
 ### 3. Resume Upload
-
-\<!-- Add Resume Upload screenshot here -->
-
+<img width="1698" height="867" alt="image" src="https://github.com/user-attachments/assets/857d8d22-2d21-4897-818c-1d09321607c3" />
 
 
 ### 4. AI Mock Interview
-
-\<!-- Add AI Interview screenshot here -->
-
-
+<img width="1034" height="637" alt="image" src="https://github.com/user-attachments/assets/3831bc2c-7358-490a-8395-8abe378633f6" />
 
 ### 5. Coding Assessment
-
-\<!-- Add Coding Assessment screenshot here -->
-
-
+<img width="1416" height="645" alt="image" src="https://github.com/user-attachments/assets/d0d91700-dbd3-4101-aed9-3704b3fa2474" />
 
 ### 6. Student Results
-
-\<!-- Add Student Results screenshot here -->
-
-
+<img width="1398" height="867" alt="image" src="https://github.com/user-attachments/assets/f0098422-dfec-45f1-a8be-d946ba3295bc" />
 
 ### 7. Placement Officer Dashboard
-
-\<!-- Add Officer Dashboard screenshot here -->
-
-
+<img width="1530" height="685" alt="image" src="https://github.com/user-attachments/assets/cf82c58d-6d5c-46bd-a2e0-659b40fefa10" />
 
 ---
-
-## 🏗️ System Architecture
-
-\<!-- Add your complete system architecture diagram here -->
-
-
 
 ### Architecture Overview
 
